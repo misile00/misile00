@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, My name is Asım</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">, My name is Asım</h1>
 
 <h2 align="center">Hello, I'm Asım. I'm interested in Linux, Cyber Security and Libre softwares.</b></h2>
 
