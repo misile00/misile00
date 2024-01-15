@@ -7,6 +7,7 @@ Welcome to my corner of the digital universe! I'm a passionate coder, sysadmin a
 I'm tinkering with a few projects:
 
 - [Misilix](https://github.com/misile00/misilix): A linux distribution project for Raspberry Pi.
+- [VMSL](https://github.com/misile00/VMSL): A hypervisor from scratch for exploring about virtualization and OS internals
 - [misile00.github.io](https://misile00.github.io): Personal website for sharing and documentation.
 
 ## 🌐 Tech Stack
