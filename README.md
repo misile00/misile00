@@ -12,7 +12,7 @@ I'm tinkering with a few projects:
 
 ## 🌐 Tech Stack
 
-- **Languages**: C, Python, Bash
+- **Languages**: Bash, C, Python
 - **Environment**: Linux
 - **Passions**: Linux, Cybersecurity, Open Source Contribution
 
